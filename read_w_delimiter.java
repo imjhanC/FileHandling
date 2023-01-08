@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class read_w_delimiter {
     public static void main(String[] args) {
-        File file = new File("abc.txt"); // textfile here
+        File file = new File("abc.txt"); // textfile here 
         Scanner sc = null;
         try {
          sc = new Scanner(file);
@@ -15,7 +15,7 @@ public class read_w_delimiter {
          }
          
         } catch (IOException  exp) {
-         exp.printStackTrace();
+         exp.printStackTrace(); // IO exception
         }
         
         sc.close();
