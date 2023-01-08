@@ -35,6 +35,8 @@ public class read_w_delimiter {
         }
         sc.close();
        } 
+
+       //end of line
       
 }
    
