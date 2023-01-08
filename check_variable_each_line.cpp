@@ -22,7 +22,7 @@ int main(){
         }
     }
     if(matched){
-        cout << "yes" << endl;
+        cout << "yes" << endl; //yes 
     }
     else{
         cout << "no" << endl;
