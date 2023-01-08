@@ -38,5 +38,4 @@ public class scanner_save_delimiter {
             }
             sc.close();
         } 
-}
 
